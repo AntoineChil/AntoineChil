@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there I'm Antoine 👋
+I'm looking for a job as full stack dev 💻
 <!--
 **AntoineChil/AntoineChil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
