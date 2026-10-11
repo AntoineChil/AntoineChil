@@ -1,7 +1,7 @@
 # Hi, I'm Antoine 👋
 
-Full Stack Developer — **PHP/Symfony & React**, with a UX/UI background.
-I build business applications end to end, from data model to interface — currently looking for a **permanent position (CDI) in a PME/ESN, Paris area**.
+Full Stack Developer - **PHP/Symfony & React**, with a UX/UI background.
+I build business applications end to end, from data model to interface - currently looking for a **permanent position (CDI) in a PME/ESN, Paris area**.
 
 ## 🔬 Flagship project: biobank management (INSERM)
 
